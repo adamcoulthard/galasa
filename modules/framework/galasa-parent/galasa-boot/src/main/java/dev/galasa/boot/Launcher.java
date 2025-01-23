@@ -45,7 +45,7 @@ import dev.galasa.boot.felix.FelixFramework;
  * <li>Loads test bundle <code>test.bundle</code> from OBR</li>
  * <li>Loads and runs test class <code>test.package.TestClass</code></li>
  * </ol>
- *
+ * force compile
  */
 public class Launcher {
 
